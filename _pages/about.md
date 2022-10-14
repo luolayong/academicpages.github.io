@@ -17,7 +17,7 @@ I obtained my Ph.D. in computer architecture from Institute of Computing Technol
 Publications
 ======
 
-- Zilong Wang, **Layong Luo**, Qingsong Ning, Chaoliang Zeng, Wenxue Li, Xinchen Wan, Peng Xie,  Tao Feng, Ke Cheng, Xiongfei Geng, Tianhao Wang, Weicheng Ling, Kejia Huo, Pingbo An, Kui Ji,  Shideng Zhang, Bin Xu, Ruiqing Feng, Tao Ding, Kai Chen, Chuanxiong Guo. [SRNIC: A Scalable Architecture for RDMA NICs]. USENIX NSDI, 2023.  
+- Zilong Wang, **Layong Luo**, Qingsong Ning, Chaoliang Zeng, Wenxue Li, Xinchen Wan, Peng Xie,  Tao Feng, Ke Cheng, Xiongfei Geng, Tianhao Wang, Weicheng Ling, Kejia Huo, Pingbo An, Kui Ji,  Shideng Zhang, Bin Xu, Ruiqing Feng, Tao Ding, Kai Chen, Chuanxiong Guo. **SRNIC: A Scalable Architecture for RDMA NICs**. USENIX NSDI, 2023.  
 - Chaoliang Zeng, **Layong Luo**, Qingsong Ning, Yaodong Han, Yuhang Jiang, Ding Tang, Zilong Wang, Kai Chen, Chuanxiong Guo. [FAERY: An FPGA-accelerated Embedding-based Retrieval System](https://www.usenix.org/conference/osdi22/presentation/zeng). USENIX OSDI, 2022.  
 - Chaoliang Zeng, **Layong Luo**, Teng Zhang, Zilong Wang, Luyang Li, Wenchen Han, Nan Chen, Lebing Wan, Lichao Liu, Zhipeng Ding, Xiongfei Geng, Tao Feng, Feng Ning, Kai Chen, Chuanxiong Guo. [Tiara: A Scalable and Efficient Hardware Acceleration Architecture for Stateful Layer-4 Load Balancing](https://www.usenix.org/conference/nsdi22/presentation/zeng). USENIX NSDI, 2022.  
 - Yuanwei Lu, Guo Chen, **Layong Luo**, Kun Tan, Yongqiang Xiong, Xiaoliang Wang and Enhong Chen, [One More Queue is Enough: Minimizing Flow Completion Time with Explicit Priority Notification](https://ieeexplore.ieee.org/document/8056946), IEEE INFOCOM, 2017.  
