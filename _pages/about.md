@@ -23,9 +23,9 @@ Publications
 - Yuanwei Lu, Guo Chen, **Layong Luo**, Kun Tan, Yongqiang Xiong, Xiaoliang Wang and Enhong Chen, [One More Queue is Enough: Minimizing Flow Completion Time with Explicit Priority Notification](https://ieeexplore.ieee.org/document/8056946), IEEE INFOCOM, 2017.  
 - Bojie Li, Kun Tan, **Layong Luo**, Yanqing Peng, Renqian Luo, Ningyi Xu, Yongqiang Xiong, and Peng Cheng, [ClickNP: Highly Flexible and High-performance Network Processing with Reconfigurable Hardware](https://dl.acm.org/doi/10.1145/2934872.2934897), ACM SIGCOMM, 2016.  
 - Guo Chen, Yuanwei Lu, Yuan Meng, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, **Layong Luo,** Yongqiang Xiong, Xiaoliang Wang, and Youjian Zhao, [Fast and Cautious: Leveraging Multi-path  Diversity for Transport Loss Recovery in Data Centers](https://www.usenix.org/conference/atc16/technical-sessions/presentation/chen), USENIX ATC, 2016.  
-- **Layong Luo**, Gaogang Xie, Yingke Xie, Laurent Mathy, and Kave Salamatian, [A Hybrid Hardware  Architecture for High-speed IP Lookups and Fast Route Updates, IEEE/ACM Transactions on  Networking](https://ieeexplore.ieee.org/document/6544293), 2014.  
+- **Layong Luo**, Gaogang Xie, Yingke Xie, Laurent Mathy, and Kave Salamatian, [A Hybrid Hardware  Architecture for High-speed IP Lookups and Fast Route Updates](https://ieeexplore.ieee.org/document/6544293), IEEE/ACM Transactions on  Networking, 2014.  
 - **Layong Luo**, Gaogang Xie, Kave Salamatian, Steve Uhlig, Laurent Mathy, and Yingke Xie, [A Trie  Merging Approach with Incremental Updates for Virtual Routers](https://ieeexplore.ieee.org/document/6566914?arnumber=6566914), IEEE INFOCOM, 2013.
-- **Layong Luo**, Gaogang Xie, Steve Uhlig, Laurent Mathy, Kave Salamatian, and Yingke Xie, [Towards TCAM-based Scalable Virtual Routers, ACM CoNEXT](https://dl.acm.org/doi/10.1145/2413176.2413186), 2012.
+- **Layong Luo**, Gaogang Xie, Steve Uhlig, Laurent Mathy, Kave Salamatian, and Yingke Xie, [Towards TCAM-based Scalable Virtual Routers](https://dl.acm.org/doi/10.1145/2413176.2413186), ACM CoNEXT, 2012.
 - **Layong Luo**, Gaogang Xie, Yingke Xie, Laurent Mathy, Kave Salamatian, [A Hybrid IP Lookup Architecture with Fast Updates](https://ieeexplore.ieee.org/document/6195633), IEEE INFOCOM, 2012.
 
 
