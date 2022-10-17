@@ -27,3 +27,9 @@ Publications
 - **Layong Luo**, Gaogang Xie, Kave Salamatian, Steve Uhlig, Laurent Mathy, Yingke Xie, [A Trie  Merging Approach with Incremental Updates for Virtual Routers](https://ieeexplore.ieee.org/document/6566914?arnumber=6566914), IEEE INFOCOM, 2013.
 - **Layong Luo**, Gaogang Xie, Steve Uhlig, Laurent Mathy, Kave Salamatian, Yingke Xie, [Towards TCAM-based Scalable Virtual Routers](https://dl.acm.org/doi/10.1145/2413176.2413186), ACM CoNEXT, 2012.
 - **Layong Luo**, Gaogang Xie, Yingke Xie, Laurent Mathy, Kave Salamatian, [A Hybrid IP Lookup Architecture with Fast Updates](https://ieeexplore.ieee.org/document/6195633), IEEE INFOCOM, 2012.
+
+Invited Talks
+======
+
+- [Towards Converged SmartNIC Architecture for Bare Metal and Public Clouds at Tencent Scale](https://conferences.sigcomm.org/events/apnet2018/slides/larry.pdf), [APNet 2018](https://conferences.sigcomm.org/events/apnet2018/program.html).
+
