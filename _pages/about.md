@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am the head of a hardware acceleration team at ByteDance's System Department, overseeing a diverse range of hardware-software co-design initiatives that aim to accelerate network, compute, storage, and security for the cloud and AI. 
+I am the head of a hardware acceleration team at ByteDance's System Department, overseeing a diverse range of hardware-software co-design initiatives that aim to accelerate networking, compute, storage, and security for the cloud and AI systems. 
 
-Before that, I worked at Tencent as an expert engineer and technical manager in the Technology and Engineering Group (TEG). There, I launched the SmartNIC/DPU project and led the cloud network development team in the network platform department. 
+Before that, I worked at Tencent as an expert engineer and technical manager in the Technology and Engineering Group (TEG). There, I launched the SmartNIC/DPU project, built the team, and led the cloud network development in the network platform department. 
 
 Prior to joining Tencent, I was a senior software engineer and tech lead in Azure Networking at Microsoft HQ, working as one of the few early core members on innovative projects including [SmartNIC](https://www.microsoft.com/en-us/research/project/azure-smartnic/), RDMA, and [Catapult FPGA](https://www.microsoft.com/en-us/research/project/project-catapult/).  Before moving to Azure, I conducted research on data center networking and hardware acceleration, as part of the wireless and networking group at Microsoft Research Asia (MSRA).
 
