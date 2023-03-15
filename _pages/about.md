@@ -16,7 +16,7 @@ Prior to joining Tencent, I was a senior software engineer and tech lead in Azur
 
 I earned my Ph.D. in computer architecture from the Institute of Computing Technology (ICT), Chinese Academy of Science (CAS), co-advised by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~_xie?language=en) and Prof. Yingke Xie.  I obtained my bachelor's degree from the University of Science and Technology of China (USTC). 
 
-I have extensive experience in building and leading hardware acceleration teams that deliver innovative solutions at hyperscalers. My interests lie broadly in hardware-software co-design for the cloud and AI systems, with a recent focus on high-speed networking, AI interconnect networking, and domain-specific accelerators.  My research has been published in top-tier networking and system conferences such as SIGCOMM, NSDI & OSDI while many of my engineering efforts have been widely deployed in data centers.
+I have extensive experience in building and leading hardware acceleration teams that deliver innovative solutions at hyperscalers. My interests lie broadly in hardware-software co-design for the cloud and AI systems, with a recent focus on high-speed networking, AI interconnects, and domain-specific accelerators. My research has been published in top-tier networking and system conferences such as SIGCOMM, NSDI & OSDI while many of my engineering efforts have been widely deployed in data centers.
 
 If you are interested in collaborating or learning more about my work, please don't hesitate to reach out to me!
 
