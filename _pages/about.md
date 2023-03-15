@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I lead a hardware acceleration team at the system department of ByteDance, driving a few hardware-software codesign initiatives to accelerate network, compute, storage, and security services in data centers with programmable hardware. Prior to that, I was an expert engineer and a technical manager in Tencent TEG (Technology and Engineering Group), leading its SmartNIC and cloud network development and planning at the network platform department. Before joining Tencent, I was a senior software engineer and tech lead in Microsoft Azure Networking, working on [SmartNIC](https://www.microsoft.com/en-us/research/project/azure-smartnic/), RDMA and [Catapult FPGA](https://www.microsoft.com/en-us/research/project/project-catapult/), and a network researcher in Microsoft Research Asia (MSRA), with a focus on data center networking and hardware acceleration. Many of my engineering efforts have been widely deployed in data centers. 
+I am the head of a hardware acceleration team at ByteDance's System Department, overseeing a diverse range of hardware-software co-design initiatives that aim to accelerate network, compute, storage, and security for the cloud and AI. 
 
-I am broadly interested in hardware-software co-design for the cloud and AI systems, with a recent focus on high-speed networking, domain-specific networking, and domain-specific architectures. Some of my research works have been published in top-tier networking and system conferences including SIGCOMM, NSDI, and OSDI.  
+Before that, I worked at Tencent as an expert engineer and technical manager in the Technology and Engineering Group (TEG). There, I launched the SmartNIC/DPU project and led the cloud network development team in the network platform department. 
 
-I obtained my Ph.D. in computer architecture from the Institute of Computing Technology (ICT), Chinese Academy of Science (CAS), co-advised by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~_xie?language=en) and Prof. Yingke Xie.  I obtained my bachelor's degree from the University of Science and Technology of China (USTC). 
+Prior to joining Tencent, I was a senior software engineer and tech lead in Azure Networking at Microsoft HQ, working as one of the few early core members on innovative projects including [SmartNIC](https://www.microsoft.com/en-us/research/project/azure-smartnic/), RDMA, and [Catapult FPGA](https://www.microsoft.com/en-us/research/project/project-catapult/).  Before moving to Azure, I conducted research on data center networking and hardware acceleration, as part of the wireless and networking group at Microsoft Research Asia (MSRA).
+
+I earned my Ph.D. in computer architecture from the Institute of Computing Technology (ICT), Chinese Academy of Science (CAS), co-advised by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~_xie?language=en) and Prof. Yingke Xie.  I obtained my bachelor's degree from the University of Science and Technology of China (USTC). 
+
+I have extensive experience in building and leading hardware acceleration teams that deliver innovative solutions at hyperscalers. My interests lie broadly in hardware-software co-design for the cloud and AI systems, with a recent focus on high-speed networking, AI interconnect networking, and domain-specific accelerators.  My research has been published in top-tier networking and system conferences such as SIGCOMM, NSDI & OSDI while many of my engineering efforts have been widely deployed in data centers.
+
+If you are interested in collaborating or learning more about my work, please don't hesitate to reach out to me!
 
 Publications
 ======
