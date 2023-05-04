@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the founding director of the flexible hardware acceleration team at ByteDance's System Department, overseeing a diverse range of hardware-software co-design initiatives that aim to accelerate networking, compute, storage, and security for the cloud and AI systems. 
+I am the head of a hardware acceleration team at ByteDance's System Department, overseeing a diverse range of hardware-software co-design initiatives that aim to accelerate networking, compute, storage, and security for the cloud and AI systems. 
 
 Before that, I was an expert engineer at Tencent. I launched Tencent's SmartNIC/DPU project as the founding manager, and led the cloud network development team in the network platform department of the Technology and Engineering Group (TEG). 
 
