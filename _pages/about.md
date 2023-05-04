@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am the head of a hardware acceleration team at ByteDance's System Department, overseeing a diverse range of hardware-software co-design initiatives that aim to accelerate networking, compute, storage, and security for the cloud and AI systems. 
+I am the founding director of the flexible hardware acceleration team at ByteDance's System Department, overseeing a diverse range of hardware-software co-design initiatives that aim to accelerate networking, compute, storage, and security for the cloud and AI systems. 
 
-Before that, I worked at Tencent as an expert engineer and technical manager in the Technology and Engineering Group (TEG). There, I launched the SmartNIC/DPU project, built the team, and led the cloud network development in the network platform department. 
+Before that, I was an expert engineer at Tencent. I launched Tencent's SmartNIC/DPU project as the founding manager, and led the cloud network development team in the network platform department of the Technology and Engineering Group (TEG). 
 
 Prior to joining Tencent, I was a senior software engineer and tech lead in Azure Networking at Microsoft HQ, working as one of the few early core members on innovative projects including [SmartNIC](https://www.microsoft.com/en-us/research/project/azure-smartnic/), RDMA, and [Catapult FPGA](https://www.microsoft.com/en-us/research/project/project-catapult/).  Before moving to Azure, I conducted research on data center networking and hardware acceleration, as part of the wireless and networking group at Microsoft Research Asia (MSRA).
 
@@ -23,7 +23,7 @@ If you are interested in collaborating or learning more about my work, please do
 Publications
 ======
 
-- Zilong Wang, **Layong Luo**, Qingsong Ning, Chaoliang Zeng, Wenxue Li, Xinchen Wan, Peng Xie,  Tao Feng, Ke Cheng, Xiongfei Geng, Tianhao Wang, Weicheng Ling, Kejia Huo, Pingbo An, Kui Ji,  Shideng Zhang, Bin Xu, Ruiqing Feng, Tao Ding, Kai Chen, Chuanxiong Guo, [SRNIC: A Scalable Architecture for RDMA NICs](https://luolayong.github.io/files/SRNIC-nsdi23-camera-ready.pdf), USENIX NSDI, 2023.  
+- Zilong Wang, **Layong Luo**, Qingsong Ning, Chaoliang Zeng, Wenxue Li, Xinchen Wan, Peng Xie,  Tao Feng, Ke Cheng, Xiongfei Geng, Tianhao Wang, Weicheng Ling, Kejia Huo, Pingbo An, Kui Ji,  Shideng Zhang, Bin Xu, Ruiqing Feng, Tao Ding, Kai Chen, Chuanxiong Guo, [SRNIC: A Scalable Architecture for RDMA NICs](https://www.usenix.org/system/files/nsdi23-wang-zilong.pdf), USENIX NSDI, 2023.  
 - Chaoliang Zeng, **Layong Luo**, Qingsong Ning, Yaodong Han, Yuhang Jiang, Ding Tang, Zilong Wang, Kai Chen, Chuanxiong Guo, [FAERY: An FPGA-accelerated Embedding-based Retrieval System](https://www.usenix.org/conference/osdi22/presentation/zeng), USENIX OSDI, 2022.  
 - Chaoliang Zeng, **Layong Luo**, Teng Zhang, Zilong Wang, Luyang Li, Wenchen Han, Nan Chen, Lebing Wan, Lichao Liu, Zhipeng Ding, Xiongfei Geng, Tao Feng, Feng Ning, Kai Chen, Chuanxiong Guo, [Tiara: A Scalable and Efficient Hardware Acceleration Architecture for Stateful Layer-4 Load Balancing](https://www.usenix.org/conference/nsdi22/presentation/zeng), USENIX NSDI, 2022.  
 - Yuanwei Lu, Guo Chen, **Layong Luo**, Kun Tan, Yongqiang Xiong, Xiaoliang Wang, Enhong Chen, [One More Queue is Enough: Minimizing Flow Completion Time with Explicit Priority Notification](https://ieeexplore.ieee.org/document/8056946), IEEE INFOCOM, 2017.  
